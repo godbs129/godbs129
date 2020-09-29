@@ -1,5 +1,8 @@
-## Hi there 👋
-### DGSW 1118 전해윤 :fire:
+# Hi there 👋
+## DGSW 1118 전해윤 :fire:
+### 🌱 I’m currently learning ...
+#### - React
+#### - Node.Js
 <!--
 **godbs129/godbs129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
