@@ -1,8 +1,4 @@
 # Hi there 👋
-## 대구소프트웨어고등학교 1학년 전해윤<br>
-## 🌱 I’m currently learning ...
-## - React
-## - Node.Js
 <!--
 **godbs129/godbs129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
