@@ -1,5 +1,5 @@
 # Hi there I'm Haeyoon 👋
-[![Haeyoon's github stats](https://github-readme-stats.vercel.app/api?username=godbs129)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=godbs129)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godbs129)](https://github.com/anuraghazra/github-readme-stats)<br>
 🌱 **I’m currently learning ...**
 + React
