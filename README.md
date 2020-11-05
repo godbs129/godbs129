@@ -1,4 +1,5 @@
-# Hi there I'm Haeyoon 👋
+https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=DGSW%201118%20%F0%9F%91%8B&fontSize=90
+//# Hi there I'm Haeyoon 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=godbs129&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godbs129)](https://github.com/anuraghazra/github-readme-stats)
 <br>
