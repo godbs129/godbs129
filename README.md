@@ -6,6 +6,7 @@
 <br>
 
 <div align = left>
+  
 🌱 **I’m currently learning ...**
 + React
 + Node.js
