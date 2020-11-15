@@ -12,10 +12,10 @@
 
 <div align = left>
   
-🌱 **I’m currently learning ...**
-+ React
-+ Node.js
-+ Express.js
+### 🌱 **I’m currently learning ...**
+#### + React
+#### + Node.js
+#### + Express.js
 
 <!--
 **godbs129/godbs129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
